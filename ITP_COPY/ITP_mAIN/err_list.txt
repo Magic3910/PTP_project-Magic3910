@@ -1,0 +1,6 @@
+1.한글깨짐
+시작오류 ( ERR.ST ) = 시작오류 : ?
+JRE ERR ( ERR.JRE_B ) = JRE 런타임 손상및 없음 : 재설치
+JRE ERR ( ERR.JRE ) = JRE 버전오류 : 1.8.0 이상으로 수정
+LC ERR ( ERR.LC427 ) = 레지스트리 미존재 또는 JRE손상 : 재설치
+AR ERR ( ERR.AR1 ) = 이미 실행중
